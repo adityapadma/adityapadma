@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating Mixed Reality Applications and Products.
 - 📫 How to reach me aditya20449@iiitd.ac.in
 
-Check out My [WebSite](https://adityapadma.carrd.co) and [Newsletter](https://adityapadma.substack.com/)
+Check out My [WebSite](https://adityapadma.carrd.co) and [Newsletter](https://adityapadma.substack.com/) and [Rēsume](https://drive.google.com/file/d/1xR0Chmv1GDmPqvM4DuB8n-b0oaNGZUsf/view?usp=sharing)
 <!---
 Aditya2020449/Aditya2020449 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -75,3 +75,6 @@ src="https://img.shields.io/twitter/follow/aadityapadma?logo=twitter&style=for-t
 
 <a href="https://www.buymeacoffee.com/adityapadma"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya20449&label=Profile%20views&color=0e75b6&style=flat" alt="aditya20449" /> </p>
+
+<p align="left"> <a href="https://twitter.com/aadityapadma" target="blank"><img src="https://img.shields.io/twitter/follow/aadityapadma?logo=twitter&style=for-the-badge" alt="aadityapadma" /></a> </p>
