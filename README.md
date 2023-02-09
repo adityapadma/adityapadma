@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-## This is my college github account used for courses and projects. 
-## Check out my public github account here: [ap-3p](https://github.com/ap-3p)
+**This is my college github account used for courses and projects.**
+**Check out my public github account here: [ap-3p](https://github.com/ap-3p)**
 
 <p align="left"> <a href="https://twitter.com/aadityapadma" target="blank"><img src="https://img.shields.io/twitter/follow/aadityapadma?logo=twitter&style=for-the-badge" alt="aadityapadma" /></a> </p>
